@@ -1,0 +1,18 @@
+# Credentials — NEVER commit
+.env
+
+# R / RStudio artifacts
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# renv library (large; teammates restore from renv.lock)
+renv/library/
+renv/staging/
+
+# Package build artifacts
+*.tar.gz
+*.Rcheck/
+man/
+NAMESPACE
