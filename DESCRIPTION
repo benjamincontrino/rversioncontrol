@@ -2,7 +2,7 @@ Package: rversioncontrol
 Title: R Version Control and Cloud Connectivity Tutorial
 Version: 0.1.0
 Authors@R: 
-    person("Benjamin", "Contrino", email = "benjamin.contrino@panthers.com", role = c("aut", "cre"))
+    person("Benjamin", "Contrino", email = "benjamin.contrino@gmail.com", role = c("aut", "cre"))
 Description: A tutorial package demonstrating R project structure, version control 
     with renv, and cloud database connectivity using .env files. Covers SQL Server,
     Azure Blob Storage, Microsoft Fabric, Databricks, and Snowflake connections.
